@@ -4,7 +4,7 @@
 
 # Lewis Howard Latimer – O Inventor que Iluminou o Mundo
 
-**Engenheiro | Inventor | Filantropo | Autor | Músico | Defensor dos Direitos Civis**
+**Engenheiro | Inventor | Filantropo | Autor | Música | Defensor dos Direitos Civis**
 
 ## Parte 1 – Infância e Família (1848–1864)
 
