@@ -1,73 +1,25 @@
-
-# 🌟 Latimer – O Inventor que Iluminou o Mundo  
-
-**Lewis Howard Latimer (1848–1928)**  
-Engenheiro | Inventor | Filantropo | Autor | Músico | Defensor dos Direitos Civis  
-
-> *“A verdadeira luz não é apenas a que ilumina ruas, mas a que abre caminhos para a liberdade e o conhecimento.”*  
+**Parte 1 – Infância e Família**:
 
 ---
 
-## 🔦 Sobre o Projeto
-Este repositório apresenta o website **Latimer – O Inventor que Iluminou o Mundo**, desenvolvido em **Next.js + TailwindCSS**, com design moderno, responsivo e inspirado na vida e legado de Lewis H. Latimer.  
+# Lewis Howard Latimer – O Inventor que Iluminou o Mundo
 
-Nosso objetivo é eternizar sua contribuição histórica para a ciência, a tecnologia e a igualdade.  
+**Engenheiro | Inventor | Filantropo | Autor | Músico | Defensor dos Direitos Civis**
 
----
+## Parte 1 – Infância e Família (1848–1864)
 
-## 📑 Estrutura do Website  
+Lewis Howard Latimer nasceu em **4 de setembro de 1848**, em Chelsea, Massachusetts, nos Estados Unidos. Ele foi o mais novo de quatro filhos de **Rebecca e George Latimer**, que escaparam da escravidão na Virgínia antes do seu nascimento. A luta pela liberdade de seus pais marcou profundamente sua vida e moldou seu espírito resiliente.
 
-### 1. **Home**
-- Hero Section com frase de impacto.  
-- Subtítulo com suas múltiplas áreas de atuação.  
-- Botão de chamada para ação: *“Conheça sua história”*.  
+Logo após a fuga de seus pais para Massachusetts, George Latimer foi preso por caçadores de escravos, mas, com apoio de líderes como **Frederick Douglass** e **William Lloyd Garrison**, conseguiu comprar sua liberdade e se reunir à família.
 
-### 2. **Biografia**
-- Linha do tempo cronológica:
-  - Infância em Chelsea (1848).  
-  - Marinha dos EUA (1864–1865).  
-  - Desenhista de patentes.  
-  - Edison Electric Light Company (1884).  
-  - General Electric (1892).  
-  - Consultor e educador (1911).  
+Desde pequeno, Lewis ajudava o pai na barbearia e passava suas noites auxiliando na aplicação de papel de parede, atividades que desenvolveram sua disciplina e atenção aos detalhes.
 
-### 3. **Patentes**
-- Cartões estilizados com título, número e data.  
-- Destaque: *“Inovações que mudaram o mundo”*.  
+A decisão da mãe de separar a família devido a ameaças legais reforçou a determinação de Lewis em superar obstáculos. Ele e seus irmãos foram enviados para uma escola agrícola, enquanto suas irmãs ficaram com amigos da família.
 
-### 4. **Legado**
-- Escritor, educador, ativista, artista.  
-- Obras como *Incandescent Electric Lighting (1890)* e *Poems of Love and Life*.  
-
-### 5. **Reconhecimentos**
-- Hall da Fama dos Inventores.  
-- Museu Lewis H. Latimer em Nova York.  
-- Escolas e programas acadêmicos.  
-- Memorial em Fall River (2023).  
-
-### 6. **Rodapé**
-- Citação inspiradora.  
-- Créditos: HDS Grupo | latimer.com.br  
+Em **16 de setembro de 1864**, aos 16 anos, Latimer ingressou na **Marinha dos EUA**, servindo como Landsman no USS Massasoit. Recebeu uma **dispensa honrosa em 3 de julho de 1865**, encerrando seu serviço militar.
 
 ---
 
-## 🎨 Estilo
-- **Paleta:** Azul profundo, dourado elétrico, preto elegante.  
-- **Frameworks:** Next.js, TailwindCSS, Framer Motion.  
-- **Design:** Limpo, moderno e responsivo.  
 
----
-
-## 🚀 Deploy
-O website será hospedado gratuitamente na **Vercel**, integrado diretamente com este repositório do GitHub.  
-Cada alteração publicada aqui gerará automaticamente uma nova versão online.  
-
----
-
-## ✨ Créditos
-Projeto desenvolvido por **HDS Grupo**, em homenagem a Lewis Howard Latimer.  
-📍 [latimer.com.br](http://latimer.com.br)  
-
----
 
 
