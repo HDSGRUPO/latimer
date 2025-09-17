@@ -1,5 +1,4 @@
 
-
 # Biografia de Lewis Howard Latimer – O Homem que Iluminou o Mundo  
 
 **Soldado da União | Inventor | Engenheiro Eletricista Autodidata | Desenhista de Patentes | Autor | Professor | Filantropo | Artista | Músico | Visionário da Luz Elétrica**  
