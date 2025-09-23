@@ -90,6 +90,7 @@ O **Projeto LATIMER**, iniciativa do **HDSGRUPO**, integra **preservação hist�
 
 **“Lewis Howard Latimer não apenas ajudou a iluminar cidades — ele iluminou consciências, abrindo caminhos para justiça, conhecimento e progresso humano.”**
 
-## Para a biografia completa e detalhada, acesse: [EXTENDED\_BIO.md](./EXTENDED_BIO.md)
+## EXTENDED_BIO.md – descrição estendida e fontes da biografia de Lewis Howard Latimer
+
 
 
