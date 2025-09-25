@@ -84,4 +84,5 @@ O Projeto LATIMER, iniciativa do **HDSGRUPO**, integra preservação histórica,
 
 ---
 
-**EXTENDED_BIO.md** – descrição contínua e fontes da biografia de Lewis Howard Latimer
+## Para uma biografia completa e detalhada, acesse: [EXTENDED_BIO.md](./EXTENDED_BIO.md)
+
