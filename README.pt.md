@@ -62,7 +62,7 @@ Dedicou-se a inspirar jovens por meio de aulas, palestras e programas comunitár
 Latimer acreditava que o progresso não nasce apenas da técnica, mas da **consciência humana guiada pela ética, pela arte e pela empatia**.  
 Para ele, **inovar era um ato de fé no futuro**.
 
-> *“A verdadeira grandeza de um homem está em servir à humanidade.”* — L.H. Latimer  
+*“A verdadeira grandeza de um homem está em servir à humanidade.”* — L.H. Latimer  
 
 Sua filosofia continua viva através de suas invenções e de seu impacto cultural.  
 Ele rompeu barreiras raciais, desafiou o preconceito e pavimentou o caminho para futuras gerações de engenheiros e cientistas negros.
@@ -87,14 +87,48 @@ Hoje, seu nome inspira o **LATIMER·IA BRASIL**, projeto que une **engenharia, f
 
 O que Latimer fez pela **era da eletricidade**, o **LATIMER·IA BRASIL** busca fazer pela **era da inteligência** — levando luz, educação e tecnologia a todos.
 
-> *“Lewis Howard Latimer não apenas ajudou a iluminar cidades — ele iluminou consciências, abrindo caminhos para justiça, conhecimento e progresso humano.”*
+*“Lewis Howard Latimer não apenas ajudou a iluminar cidades — ele iluminou consciências, abrindo caminhos para justiça, conhecimento e progresso humano.”*
 
 ---
 
 **Fonte e Curadoria Histórica:**  
-Eng. **Helder Diniz Silva**  
-Co-Fundador e CEO — **Projeto Nacional LATIMER·IA BRASIL**  
-helderdinizsilva@gmail.com · [@helderdinizsilva.ia](https://www.instagram.com/helderdinizsilva.ia)
+---
+
+## **Autor e Coordenador do Projeto**
+
+### **Eng. Helder Diniz Silva**  
+**Engenheiro Eletricista e de Telecomunicações**  
+Gestor de Corporações e Finanças · Administrador e Investidor  
+Historiador e Tecnólogo Autodidata  
+**Co-Fundador e CEO — Projeto Nacional LATIMER·IA BRASIL**  
+
+(37) 9 9844-2669  
+helderdinizsilva@gmail.com  
+[@helderdinizsilva.ia](https://www.instagram.com/helderdinizsilva.ia)  
+Oliveira · MG  
+
+---
+
+### **Perfil Profissional**
+
+Engenheiro Eletricista e de Telecomunicações, **Helder Diniz Silva** é um **profissional visionário, dedicado e incansável**, com trajetória sólida em **engenharia elétrica, energia solar fotovoltaica, telecomunicações, obras civis e finanças corporativas**.  
+
+Aos **23 anos**, tornou-se **Gerente Regional das Empresas Financeiras FIAT**, então o **maior banco de atacado da América Latina**, liderando equipes e investimentos estratégicos de alta complexidade.  
+Essa vivência executiva consolidou sua visão de **gestão, inovação e liderança técnica**, hoje aplicada ao desenvolvimento de projetos de **inteligência artificial, energia e infraestrutura tecnológica**.  
+
+Helder também é **pioneiro em Energia Solar Fotovoltaica na PUC-MG**, onde apresentou a primeira monografia sobre o tema.  
+Sua atuação une **engenharia, ciência, filosofia e tecnologia**, sempre guiada pelo compromisso com o **progresso humano e o conhecimento como fonte de liberdade**.  
+
+---
+
+### **Missão no LATIMER·IA BRASIL**
+
+*“Promover uma engenharia mais humana, integrada à inteligência artificial e guiada pelos valores da ética, do conhecimento e da inovação.”*  
+
+Sob sua coordenação, o **Projeto LATIMER·IA BRASIL** se estabelece como um movimento nacional de **educação técnica, inclusão digital e valorização profissional**, inspirado na visão e no legado de **Lewis Howard Latimer (1848–1928)** —  
+engenheiro eletricista e mecânico autodidata, desenhista técnico, cientista, inventor, autor, músico, artista, mentor, filantropo e professor.  
+
+---
 
 © 2025 **LATIMER·IA BRASIL**  
 *Preservação Histórica · Educação · Filosofia · Tecnologia · Inteligência Artificial*
