@@ -91,10 +91,10 @@ O que Latimer fez pela **era da eletricidade**, o **LATIMER·IA BRASIL** busca f
 
 ---
 
-📘 **Fonte e Curadoria Histórica:**  
+**Fonte e Curadoria Histórica:**  
 Eng. **Helder Diniz Silva**  
 Co-Fundador e CEO — **Projeto Nacional LATIMER·IA BRASIL**  
-📧 helderdinizsilva@gmail.com · 📸 [@helderdinizsilva.ia](https://www.instagram.com/helderdinizsilva.ia)
+helderdinizsilva@gmail.com · 📸 [@helderdinizsilva.ia](https://www.instagram.com/helderdinizsilva.ia)
 
 © 2025 **LATIMER·IA BRASIL**  
 *Preservação Histórica · Educação · Filosofia · Tecnologia · Inteligência Artificial*
