@@ -58,7 +58,7 @@ O projeto estabelece pontes entre **ciência, tecnologia, cultura e responsabili
 **Gestor de Corporações e Finanças · Administrador e Investidor**  
 **Historiador, Músico e Tecnólogo Autodidata**  
 **CEO da AEVESO — Associação dos Profissionais do Sistema MÚTUA·CREA·CONFEA – Sede Oliveira-MG**  
-**Co-Fundador e CEO — Projeto Nacional LATIMER·IA BRASIL**
+**Fundador e CEO — Projeto Nacional LATIMER·IA BRASIL**
 
 (+55) 37 9 9844-2669  
 [helderdinizsilva@gmail.com](mailto:helderdinizsilva@gmail.com)  
@@ -70,12 +70,12 @@ Oliveira · Minas Gerais · Brasil
 ## **Formação e Atuação Profissional**
 
 **Helder Diniz Silva** é um **profissional visionário, dedicado e incansável**, com sólida trajetória em **ciência aplicada, energia solar fotovoltaica, telecomunicações, obras civis, finanças corporativas e infraestrutura de telefonia móvel**.  
-Atuou em **projetos TIM GSM, Vivo Sencillo e Claro 3G**, com forte presença nos estados de **Minas Gerais, Espírito Santo e São Paulo**, unindo técnica, planejamento e inovação em obras de grande porte.
+Atuou em **Projetos OI GSM, TIM GSM, VIVO SENCILLO, ALGAR PLUS e CLARO 3G**, com forte presença nos estados de **Minas Gerais, Espírito Santo e São Paulo**, unindo técnica, planejamento e inovação em obras de grande porte.
 
 Aos **23 anos**, tornou-se o **primeiro gestor negro a ocupar o cargo de Gerente Regional das Empresas Financeiras FIAT**, o **maior banco de atacado da América Latina na década de 1990**, pertencente ao maior grupo industrial do continente.  
 Essa vivência consolidou sua visão de **gestão, inovação e liderança técnica**, aplicada hoje em projetos de **inteligência artificial, energia e infraestrutura tecnológica**.
 
-Além disso, é **leitor assíduo**, **autor** e **músico formado em piano clássico na década de 1980**, combinando razão e sensibilidade em tudo o que cria e lidera.  
+Além disso, é **leitor assíduo**, **autor** e **músico, estudou piano clássico na década de 1980**, combinando razão e sensibilidade em tudo o que cria e lidera.  
 Fluente em **italiano avançado**, com **inglês em estudo contínuo**, atua também em ambientes técnicos e multilíngues.
 
 ---
@@ -96,5 +96,5 @@ O **LATIMER·IA BRASIL** representa o elo entre a **luz do passado e a inteligê
 
 **Helder Diniz Silva**  
 **Gestor, Pesquisador e Músico Clássico**  
-**CEO da AEVESO · Co-Fundador e CEO do Projeto LATIMER·IA BRASIL**  
+**CEO da AEVESO · Fundador e CEO do Projeto LATIMER·IA BRASIL**  
 **Líder Nacional em Inovação, Energia e Inteligência Artificial Aplicada ao Desenvolvimento Humano**
